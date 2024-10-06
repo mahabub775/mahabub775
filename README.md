@@ -6,7 +6,7 @@
 🎤 Like to share my knowledge </p> 
 
 
-<p align="left"> <a href="https://twitter.com/mahabub775" target="blank"><img src="https://img.shields.io/twitter/follow/shovoalways?logo=twitter&style=for-the-badge" alt="mahabub775" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mahabub775" target="blank"><img src="https://x.com/mahabub775" alt="mahabub775" /></a> </p>
 
 ## 🚀 About Me
 I’m a Software Engineer passionate about making error-free Applications with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I Complete many Applications for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with Microsoft technology (e.g: .Net, C#, SQLServer etc ), but some technologies I enjoy working with include Angular, JavaScript as well as node js. 
